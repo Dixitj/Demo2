@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Webapplication</string>
+    <string name="welcome">Welcome</string>
+    <string name="email_id">Email Id</string>
+    <string name="enetr_password">Enetr Password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_signup">signup</string>
+    <string name="signup">SignUp</string>
+</resources>
